@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, typographical error in JavaScript when interacting with the DOM.  The code attempts to select an HTML element using `document.getElementByID`, which is incorrect. The correct method is `document.getElementById`. This subtle error can lead to unexpected behavior and debugging challenges.
